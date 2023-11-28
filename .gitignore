@@ -1,0 +1,9 @@
+obj/
+venom
+callgrind.out
+graph.gv
+graph.png
+.vscode/
+__pycache__/
+.pytest_cache/
+env/
